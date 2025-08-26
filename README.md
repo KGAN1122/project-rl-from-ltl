@@ -1,1 +1,1 @@
-# project-rl-from-ltl
+# Sample-Efficient Reinforcement Learning for Robotics with High-Level Task Specifications
