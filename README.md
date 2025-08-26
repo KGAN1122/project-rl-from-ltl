@@ -12,6 +12,6 @@ Download from https://www7.in.tum.de/~kretinsk/rabinizer4.html and follow instru
 To run experiments, use main.py. The --task option is required and can be used to choose the task from the following: 'frozen_lake' and 'office_world'.
 
 ```shell
-$ python main.py --task 'frozen_lake' --save_log
-$ python main.py --task 'office_world' --save_log
+$ python main.py --task 'frozen_lake'
+$ python main.py --task 'office_world'
 ```
